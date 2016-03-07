@@ -20,7 +20,7 @@ $(function() {
 					response(data.results);
 					},
 				error : function(data) { // error
-					alert(data);
+					
 				}				
 			});			
 		},
